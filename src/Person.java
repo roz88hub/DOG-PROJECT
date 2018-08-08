@@ -10,9 +10,6 @@ public class Person {
 		dog1.bark();
 		System.out.println(dog1.breed);
 		dog1.Sleep() ; 
-
-		
-	
 	}
 
 	
